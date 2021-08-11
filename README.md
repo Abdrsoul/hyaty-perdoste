@@ -1,0 +1,2 @@
+# hyaty-perdoste
+Request Id: 4beb8c33-f311-40d7-b4fd-96214818ed01 Correlation Id: 066a8d4e-11b3-41b8-aa02-04b7c5614d52 Timestamp: 2021-08-10T20:22:40Z Message: AADSTS90072: User account 'Rswlhyaty9@outlook.com' from identity provider 'live.com' does not exist in tenant 'World Health Organization' and cannot access the application 'd79c115a-a3d2-4933-88ee-45b6f1adb9ad'(Supply Portal) in that tenant. The account needs to be added as an external user in the tenant first. Sign out and sign in again with a different Azure Active Directory user account
